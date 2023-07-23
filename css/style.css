@@ -1,3 +1,8 @@
+*{
+    margin:0;
+    padding:0
+}
+
 .caja{
     width: 400px;
     height: 100vh;
